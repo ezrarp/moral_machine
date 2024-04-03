@@ -1,7 +1,7 @@
 # moral_machine
 This is a final Project for COG415 at The University of Toronto.
 This project uses the Moral Machine data set by Awad et al, 2018
-<<<<<<< HEAD
+
 
 # Disclaimer
 This project explores the development and use of a moral
@@ -11,8 +11,6 @@ world moral decisions nor are the conclusions of the pa-
 per representative of objective values of human life. The
 purpose of this paper is academic exploration and an
 attempt to model human moral reasoning.
-=======
->>>>>>> c3f912c7189a9d4a8fc9269ce250a4a8f049acc3
 
 # Project Motivation
 Human ethical judgements are complex and nuanced
