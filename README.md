@@ -1,6 +1,8 @@
 # Moral Machine
-This is a final Project for COG415 at The University of Toronto.\\
-This project uses the Moral Machine data set by Awad et al, 2018\\
+This is a final Project for COG415 at The University of Toronto.
+
+This project uses the Moral Machine data set by Awad et al, 2018
+
 For Repository Navigation: https://github.com/ezrarp/moral_machine/blob/main/README.md#navigating-this-repo
 
 
