@@ -1,4 +1,4 @@
-# moral_machine
+# Moral Machine
 This is a final Project for COG415 at The University of Toronto.
 This project uses the Moral Machine data set by Awad et al, 2018
 
