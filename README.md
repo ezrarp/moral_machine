@@ -38,7 +38,7 @@ Used a random sample of 350,000 scenarios ~10% of the data set.
 - Used Mean Squared error as our loss function 
 - Used SGD as an optimier
 
-![alt text](image-1.png)
+![alt text](Network_Visualisation.png)
 
 # Navigating This Repo
 The file that was used to train the network is in the Networks folder and is called ColabNetwork. It is coded to work on google 
